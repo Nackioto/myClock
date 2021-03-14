@@ -1,6 +1,6 @@
 # myClock
 
-##**Everyone knows what a clock is so this is just a simple piece using basic HTML, CSS and simple JS. The usage of this clock is pretty simple: just measuring and displaying the time with clock hands.**
+## **Everyone knows what a clock is so this is just a simple piece using basic HTML, CSS and simple JS. The usage of this clock is pretty simple: just measuring and displaying the time with clock hands.**
 
 ![image](https://user-images.githubusercontent.com/34626538/111064134-4b71fb80-84aa-11eb-9fa6-2053ed961670.png)
 
