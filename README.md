@@ -5,10 +5,10 @@ Everyone knows what a clock is so this is just a simple piece using basic HTML, 
 
 Main Concepts
 
-HTML
+**HTML**
 For this piece, I have used Div to apply CSS using classes and JS using id
 
-CSS
+**CSS**
 Properties highlighted for this piece:
 Box-shadow: It adds shadows around the element and the achievement to an inner shadow within the clock is given by the inset value.
 
@@ -16,7 +16,7 @@ Box-shadow: It adds shadows around the element and the achievement to an inner s
 
 Z-index: the dot has to be brought to the front so this property will bring it adding a positive value. 
 
-JavaScript
+**JavaScript**
 document.querySelector(): this method is used to return the element with the id specified. In this case, it will return the id for ‘hour’, ‘minute’, ‘second’. 
 
 setInterval(): this method is part of the timing events (setTimeout & setInterval). This method repeats a given function at every given time-interval. 
