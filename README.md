@@ -1,15 +1,15 @@
 # myClock
 
-**Everyone knows what a clock is so this is just a simple piece using basic HTML, CSS and simple JS. The usage of this clock is pretty simple: just measuring and displaying the time with clock hands.**
+##**Everyone knows what a clock is so this is just a simple piece using basic HTML, CSS and simple JS. The usage of this clock is pretty simple: just measuring and displaying the time with clock hands.**
 
 ![image](https://user-images.githubusercontent.com/34626538/111064134-4b71fb80-84aa-11eb-9fa6-2053ed961670.png)
 
-Main Concepts
+## Main Concepts
 
-**HTML**
+## **HTML**
 For this piece, I have used Div to apply CSS using classes and JS using id
 
-**CSS**
+## **CSS**
 Properties highlighted for this piece:
 Box-shadow: It adds shadows around the element and the achievement to an inner shadow within the clock is given by the inset value.
 
@@ -17,7 +17,7 @@ Box-shadow: It adds shadows around the element and the achievement to an inner s
 
 Z-index: the dot has to be brought to the front so this property will bring it adding a positive value. 
 
-**JavaScript**
+## **JavaScript**
 document.querySelector(): this method is used to return the element with the id specified. In this case, it will return the id for ‘hour’, ‘minute’, ‘second’. 
 
 setInterval(): this method is part of the timing events (setTimeout & setInterval). This method repeats a given function at every given time-interval. 
